@@ -1,0 +1,4 @@
+﻿  temperatur.c
+c:\users\andi\desktop\prog_c\projects\kap01\09_temperatur\temperatur.c(20): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  09_temperatur.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\09_temperatur.exe
+  09_temperatur.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\09_temperatur.pdb (Partial PDB)

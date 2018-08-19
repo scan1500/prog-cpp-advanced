@@ -1,0 +1,5 @@
+﻿  test.c
+c:\users\andi\desktop\prog3\projects\kap01\08_test\test.c(10): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\andi\desktop\prog3\projects\kap01\08_test\test.c(7): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+  08_test.vcxproj -> C:\Users\Andi\Desktop\prog3\Projects\Kap01\Debug\08_test.exe
+  08_test.vcxproj -> C:\Users\Andi\Desktop\prog3\Projects\Kap01\Debug\08_test.pdb (Partial PDB)

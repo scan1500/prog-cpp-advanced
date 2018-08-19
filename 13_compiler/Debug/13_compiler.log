@@ -1,0 +1,5 @@
+﻿  compiler.c
+c:\users\andi\desktop\prog_c\projects\kap01\13_compiler\compiler.c(13): warning C4013: "getch" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\andi\desktop\prog_c\projects\kap01\13_compiler\compiler.c(7): warning C4244: "Initialisierung": Konvertierung von "double" in "int", möglicher Datenverlust
+  13_compiler.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\13_compiler.exe
+  13_compiler.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\13_compiler.pdb (Partial PDB)

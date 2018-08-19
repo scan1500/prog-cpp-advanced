@@ -1,0 +1,6 @@
+﻿  results.c
+c:\users\andi\desktop\prog_c\projects\kap01\11_results\results.c(25): warning C4244: "=": Konvertierung von "float" in "char", möglicher Datenverlust
+c:\users\andi\desktop\prog_c\projects\kap01\11_results\results.c(28): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\andi\desktop\prog_c\projects\kap01\11_results\results.c(6): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  11_results.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\11_results.exe
+  11_results.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\11_results.pdb (Partial PDB)

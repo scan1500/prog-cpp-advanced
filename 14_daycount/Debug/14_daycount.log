@@ -1,0 +1,4 @@
+﻿  daycount.c
+c:\users\andi\desktop\prog_c\projects\kap01\14_daycount\daycount.c(28): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  14_daycount.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\14_daycount.exe
+  14_daycount.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\14_daycount.pdb (Partial PDB)
