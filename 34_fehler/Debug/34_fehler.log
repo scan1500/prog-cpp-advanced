@@ -1,0 +1,4 @@
+﻿  fehler.cpp
+c:\users\andi\desktop\prog_c\projects\kap01\34_fehler\fehler.cpp(19): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+  34_fehler.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\34_fehler.exe
+  34_fehler.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\34_fehler.pdb (Partial PDB)
