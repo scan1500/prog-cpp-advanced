@@ -1,0 +1,4 @@
+﻿  menue.c
+c:\users\andi\desktop\prog_c\projects\kap01\05_menue\menue.c(33): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  05_menue.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\05_menue.exe
+  05_menue.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\05_menue.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  comments.c
+c:\users\andi\desktop\prog_c\projects\kap01\06_comments\comments.c(10): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  06_comments.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\06_comments.exe
+  06_comments.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\06_comments.pdb (Partial PDB)

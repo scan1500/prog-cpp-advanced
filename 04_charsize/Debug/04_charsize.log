@@ -1,0 +1,4 @@
+﻿  charsize.c
+c:\users\andi\desktop\prog_c\projects\kap01\04_charsize\charsize.c(16): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  04_charsize.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\04_charsize.exe
+  04_charsize.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\04_charsize.pdb (Partial PDB)
