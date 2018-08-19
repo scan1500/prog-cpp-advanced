@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (28_mantisse.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  mantisse.c
+c:\users\andi\desktop\prog_c\projects\kap01\28_mantisse\mantisse.c(30): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\andi\desktop\prog_c\projects\kap01\28_mantisse\mantisse.c(42): warning C4244: "Initialisierung": Konvertierung von "float" in "int", möglicher Datenverlust
+c:\users\andi\desktop\prog_c\projects\kap01\28_mantisse\mantisse.c(72): warning C4554: ">>": Prüfen Sie Operatorrangfolge auf mögliche Fehler; verwenden Sie runde Klammern, um den Vorrang zu verdeutlichen
+c:\users\andi\desktop\prog_c\projects\kap01\28_mantisse\mantisse.c(91): warning C4554: "&": Prüfen Sie Operatorrangfolge auf mögliche Fehler; verwenden Sie runde Klammern, um den Vorrang zu verdeutlichen
+  28_mantisse.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\28.1_mantisse.exe
+  28_mantisse.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\28.1_mantisse.pdb (Partial PDB)
