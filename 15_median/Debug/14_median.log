@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (14_median.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  median.c
+c:\users\andi\desktop\prog_c\projects\kap01\14_median\median.c(28): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  14_median.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\15_median.exe
+  14_median.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\15_median.pdb (Partial PDB)

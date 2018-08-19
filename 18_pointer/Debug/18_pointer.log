@@ -1,0 +1,9 @@
+﻿  pointer.c
+c:\users\andi\desktop\prog_c\projects\kap01\18_pointer\pointer.c(24): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\andi\desktop\prog_c\projects\kap01\18_pointer\pointer.c(6): warning C4305: "Initialisierung": Verkürzung von "double" in "const float"
+c:\users\andi\desktop\prog_c\projects\kap01\18_pointer\pointer.c(7): warning C4090: "Initialisierung": Unterschiedliche "const"-Qualifizierer
+c:\users\andi\desktop\prog_c\projects\kap01\18_pointer\pointer.c(10): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+c:\users\andi\desktop\prog_c\projects\kap01\18_pointer\pointer.c(14): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "float **" und "float *const " unterschiedlich
+c:\users\andi\desktop\prog_c\projects\kap01\18_pointer\pointer.c(17): warning C4305: "Initialisierung": Verkürzung von "double" in "float"
+  18_pointer.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\18_pointer.exe
+  18_pointer.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\18_pointer.pdb (Partial PDB)

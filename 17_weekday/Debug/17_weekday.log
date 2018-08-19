@@ -1,0 +1,5 @@
+﻿  weekday.c
+c:\users\andi\desktop\prog_c\projects\kap01\17_weekday\weekday.c(16): warning C4554: "|": Prüfen Sie Operatorrangfolge auf mögliche Fehler; verwenden Sie runde Klammern, um den Vorrang zu verdeutlichen
+c:\users\andi\desktop\prog_c\projects\kap01\17_weekday\weekday.c(33): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  17_weekday.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\17_weekday.exe
+  17_weekday.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\17_weekday.pdb (Partial PDB)

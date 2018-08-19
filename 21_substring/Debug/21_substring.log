@@ -1,0 +1,4 @@
+﻿  substring.c
+c:\users\andi\desktop\prog_c\projects\kap01\21_substring\substring.c(18): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  21_substring.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\21_substring.exe
+  21_substring.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\21_substring.pdb (Partial PDB)
