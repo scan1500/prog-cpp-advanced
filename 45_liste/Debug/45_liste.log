@@ -1,0 +1,4 @@
+﻿  liste.cpp
+c:\users\andi\desktop\prog_c\projects\kap01\45_liste\liste.cpp(299): warning C4715: "List::getPointer": Nicht alle Steuerelementpfade geben einen Wert zurück.
+  45_liste.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\45_liste.exe
+  45_liste.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\45_liste.pdb (Partial PDB)

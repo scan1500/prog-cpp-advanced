@@ -1,0 +1,4 @@
+﻿  basis.cpp
+c:\users\andi\desktop\prog_c\projects\kap01\42_basis\basis.cpp(49): warning C4101: "b": Unreferenzierte lokale Variable
+  42_basis.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\42_basis.exe
+  42_basis.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\42_basis.pdb (Partial PDB)
