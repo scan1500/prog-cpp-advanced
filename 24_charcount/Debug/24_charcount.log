@@ -1,0 +1,5 @@
+﻿  charcount.c
+c:\users\andi\desktop\prog_c\projects\kap01\24_charcount\charcount.c(14): warning C4013: "charcount" undefiniert; Annahme: extern mit Rückgabetyp int
+c:\users\andi\desktop\prog_c\projects\kap01\24_charcount\charcount.c(15): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  24_charcount.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\24_charcount.exe
+  24_charcount.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\24_charcount.pdb (Partial PDB)

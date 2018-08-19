@@ -1,0 +1,4 @@
+﻿  strchar.c
+c:\users\andi\desktop\prog_c\projects\kap01\23_strchar\strchar.c(26): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  23_strchar.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\23_strchar.exe
+  23_strchar.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\23_strchar.pdb (Partial PDB)

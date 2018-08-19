@@ -1,0 +1,4 @@
+﻿  memo.c
+c:\users\andi\desktop\prog_c\projects\kap01\26_memo\memo.c(14): warning C4101: "time_info": Unreferenzierte lokale Variable
+  26_memo.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\26_memo.exe
+  26_memo.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\26_memo.pdb (Partial PDB)

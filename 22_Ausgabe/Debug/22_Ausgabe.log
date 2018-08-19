@@ -1,0 +1,4 @@
+﻿  ausgabe.c
+c:\users\andi\desktop\prog_c\projects\kap01\22_ausgabe\ausgabe.c(18): warning C4013: "system" undefiniert; Annahme: extern mit Rückgabetyp int
+  22_Ausgabe.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\22_ausgabe.exe
+  22_Ausgabe.vcxproj -> C:\Users\Andi\Desktop\prog_c\Projects\Kap01\Debug\22_ausgabe.pdb (Partial PDB)
